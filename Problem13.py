@@ -4,3 +4,4 @@ def reverse_string(s: str) -> str:
     return "".join(char)
 
 print(reverse_string("Hello World"))
+#dlroW olleH

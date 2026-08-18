@@ -5,3 +5,5 @@ word_list = ["apple","banana","cherry","date","elderberry","fig","grape","honeyd
 
 print(is_word_in_list(word_list, "cherry"))
 print(is_word_in_list(word_list, "mango"))
+#True
+#False

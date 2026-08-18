@@ -6,3 +6,4 @@ def find_multiples_of_three_and_four (start: int, end: int) -> list:
     return result
 
 print(find_multiples_of_three_and_four(10,50))
+#output [12, 24, 36, 48]

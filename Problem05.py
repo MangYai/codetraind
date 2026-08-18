@@ -9,3 +9,5 @@ def find_divisors(n: int) -> List[int]:
 
 n = int(input('Number: '))
 print(find_divisors(n))
+# output Number: 10
+#[1, 2, 5, 10]

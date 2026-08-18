@@ -8,3 +8,7 @@ def check_prime(n: int) -> str:
 
 number = int(input('Number: '))
 print(check_prime(number))
+#output Number: 7
+#is prime
+#Number: 8
+#is not prime

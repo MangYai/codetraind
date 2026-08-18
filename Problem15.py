@@ -11,3 +11,4 @@ def count_word_occurrences(words: List[str]) -> Dict[str, int]:
     
     
 print(count_word_occurrences(["apple", "banana", "apple", "orange", "banana", "apple"]))
+#{'apple': 3, 'banana': 2, 'orange': 1}

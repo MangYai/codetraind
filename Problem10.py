@@ -15,3 +15,4 @@ print(character_frequency(
     "case",
     "example"
 ))
+#{'h': 1, 'e': 5, 'l': 4, 'o': 2, 'w': 1, 'r': 1, 'd': 1, 't': 2, 's': 2, 'c': 1, 'a': 2, 'x': 1, 'm': 1, 'p': 1}

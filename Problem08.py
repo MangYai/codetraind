@@ -8,3 +8,4 @@ def average_length_of_strings(strings: List[str]) -> float:
         
 word = ["apple", "banana", "cherry", "date", "elderberry"]    
 print(average_length_of_strings(word))
+# output 6.2

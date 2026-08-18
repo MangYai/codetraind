@@ -7,3 +7,4 @@ def contains_vowel(s: str) -> bool:
     return False
 
 print(contains_vowel("Hello World"))
+#True

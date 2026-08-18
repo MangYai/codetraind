@@ -6,3 +6,4 @@ def insert_at_front(words: List[str]) -> List[str]:
     return result
 
 print(insert_at_front(["apple", "banana", "cherry"]))
+#['cherry', 'banana', 'apple']

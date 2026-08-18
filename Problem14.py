@@ -9,3 +9,4 @@ def collect_unique_words(s) -> List[str]:
     return " ".join(result)
 
 print(collect_unique_words(["apple", "banana", "apple", "cherry", "date", "banana", "elderberry"]))
+# apple banana cherry date elderberry

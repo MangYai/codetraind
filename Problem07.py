@@ -17,3 +17,4 @@ def prime_numbers_in_range(start: int, end: int) -> tuple:
     return(primes, sum(primes))
 
 print(prime_numbers_in_range(10,20))
+#uotput ([11, 13, 17, 19], 60)

@@ -5,3 +5,4 @@ def separate_by_index(s: str) -> Tuple[str, str]:
     return (even_chars, odd_chars)
 
 print(separate_by_index("Hello World"))
+# ('HloWrd', 'el ol')
