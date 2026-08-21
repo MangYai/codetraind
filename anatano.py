@@ -1,0 +1,1 @@
+print("anatano suba tereka ")
